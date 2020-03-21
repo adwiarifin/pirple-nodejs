@@ -1,4 +1,6 @@
 .data/*
 
+!.data/tokens
+.data/tokens/*
 !.data/users
 .data/users/*
