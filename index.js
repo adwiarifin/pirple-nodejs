@@ -1,6 +1,6 @@
 const http = require('http');
 const https = require('https');
-const config =  require('./config');
+const config =  require('./lib/config');
 const server = require('./server');
 const fs = require('fs');
 

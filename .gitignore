@@ -1,1 +1,4 @@
-data/*
+.data/*
+
+!.data/users
+.data/users/*
