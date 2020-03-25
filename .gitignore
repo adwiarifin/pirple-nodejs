@@ -4,3 +4,5 @@
 .data/tokens/*
 !.data/users
 .data/users/*
+!.data/checks
+.data/checks/*
