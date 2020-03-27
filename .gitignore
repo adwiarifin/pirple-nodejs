@@ -6,3 +6,6 @@
 .data/users/*
 !.data/checks
 .data/checks/*
+
+!.logs
+.logs/*
